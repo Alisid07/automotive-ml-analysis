@@ -1,0 +1,10 @@
+# Ignore virtual environments
+env/
+
+# Ignore model files
+models/
+
+# Ignore system files
+*.log
+*.csv
+__pycache__/
